@@ -12,8 +12,9 @@ Aqui está uma lista de coisas com as quais me mantenho ocupado:
   <summary>Alguns outros fatos sobre mim</summary>
   <br>
   <p><i>Siri, toque ME! por Xxxtentaion - MOONLIGHT 🎶</i><p>
-  - Minha chance de fazer uma jam ao codificar: softwares. Sem parar. ⭐️
   
+ - Minha chance de fazer uma jam ao codificar: softwares. Sem parar. ⭐️
+ - Anthena é uma menina linda e maravilhosa, admiro muito ela! quero me tornar ela quando crescer
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asmInstrutor&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
 
