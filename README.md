@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/hero.svg" alt="Hero image">
+<img src="https://raw.githubusercontent.com/AsmInstrutor/AsmInstrutor/main/1630535512025.png" alt="Hero image">
 
 Gosto de experimentar novas tecnologias, construir pequenos projetos e ocasionalmente participar de hackings 🍃
 
@@ -25,4 +25,4 @@ Aqui está uma lista de coisas com as quais me mantenho ocupado:
 </details>
 
 
-<img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/dcd7447c179f5a1131590b6ccba2223e879ab655/readme/bottom.svg" alt="bottom">
+<img src="https://raw.githubusercontent.com/AsmInstrutor/AsmInstrutor/main/1630535755062.png" alt="bottom">
