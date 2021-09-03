@@ -9,6 +9,7 @@
 - ☀️ Desenvolvendo projetos de código aberto (sinta-se à vontade para contribuir, é para iniciantes!)
 - ✍️ Escrevendo e publicando previews de conteudo no meu **[Blog](https://chat.whatsapp.com/FKFjHxn0ADlDF1eMktYnUu)**.
 - 🛠 Trabalhando na CyberStorm.TI.
+- 📚 Estudando assuntos novos.
 
 <details>
   <summary>Alguns outros fatos sobre mim</summary>
