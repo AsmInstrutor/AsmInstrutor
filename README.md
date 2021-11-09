@@ -7,8 +7,8 @@
 <strong>Aqui está uma lista de algumas coisas com as quais me mantenho ocupado:</strong>
 
 - ☀️ Desenvolvendo projetos de código aberto (sinta-se à vontade para contribuir, é para iniciantes!)
-- ✍️ Escrevendo e publicando previews de conteudo no meu **[Blog](https://chat.whatsapp.com/FKFjHxn0ADlDF1eMktYnUu)**.
-- 🛠 Trabalhando na CyberStorm.TI.
+- 💫 **[Meu grupo do WhatsApp](https://chat.whatsapp.com/IUgnNm69OPw68CFdnhVCAr)**.
+- 🤝 Ajudando algumas pessoas.
 - 📚 Estudando assuntos novos.
 
 <details>
@@ -19,6 +19,7 @@
  - Minha chance de fazer uma jam ao codificar: softwares. Sem parar. ⭐️
  - Eu absolutamente adoro a Anthena, minha linda!
  - Amo programação, para ser mais exato, Assembly Intel x86_64!
+ - Adorando estudar C
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asmInstrutor&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
 
